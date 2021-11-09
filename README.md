@@ -4,7 +4,7 @@
 
 The IOT Based fish feeder is a small device which is design for aquarium industry. Specially for the small and lag scale fish farms, which need lot of man power to feed the fish in time. This is one of the biggest challenge face by the fish farm owners. This device will helps to feed the fish in time. The IOT based fish feeder is consists of two parts, the hardware and a mobile application to setup and control the device. The following topic will cover these parts in farther more details and also the operation of the device.  
 
-![Final](./Images/Final.jpg)
+![Final](./Images/FullProject.png)
 
 ## **1. Mobile Application**
 
@@ -30,7 +30,17 @@ The mechanical design part contain all the mechanical system and the enclosure o
 
 Following images show the individual CAD design of each part.
 
-/////===========///=============.//////==========////===============
+1. Body
+![PCB_P](./Images/Body.png)
+
+2. Bottom Plate
+![PCB_P](./Images/BottumCup.png)
+3. Segmented Wheel
+![PCB_P](./Images/Wheel.png)
+4. Back Plate
+![PCB_P](./Images/BackPlat.png)
+5. Lid
+![PCB_P](./Images/Lid.png)
 
 ### **2.2 Electrical design**
 
